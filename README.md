@@ -12,8 +12,8 @@ I enjoy turning ideas into functional projects, learning new technologies, and s
 
 - 🎓 Currently pursuing **MCA**
 - 💻 Interested in Full-Stack Development and Software Engineering
-- 🔭 Working on **CampusOne** – an integrated academic management platform
-- 📚 Developed **StudyPlanner** – a student productivity and study planning project
+- 🔭 Working on **CampusOne** an integrated academic management platform
+- 📚 Developed **StudyPlanner**  a student productivity and study planning project
 - 🌱 Continuously learning new technologies and improving my development skills
 - 🎯 Goal: Build useful, scalable and impactful software solutions
 
