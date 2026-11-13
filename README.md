@@ -10,7 +10,7 @@ I enjoy turning ideas into functional projects, learning new technologies, and s
 
 ## 🚀 About Me
 
-- 🎓 Currently pursuing **B.E. in Electronics & Communication Engineering**
+- 🎓 Currently pursuing **MCA**
 - 💻 Interested in Full-Stack Development and Software Engineering
 - 🔭 Working on **CampusOne** – an integrated academic management platform
 - 📚 Developed **StudyPlanner** – a student productivity and study planning project
@@ -80,6 +80,20 @@ An AI-powered integrated student–faculty academic management and decision-supp
 📫 Feel free to connect with me through GitHub for collaboration, project discussions, and learning opportunities.
 
 ---
+## 🌐 Connect With Me
+
+<p>
+  <a href="https://contactsujalsoans.netlify.app/">
+    <img src="https://img.shields.io/badge/Portfolio-Visit%20Website-0A66C2?style=for-the-badge&logo=googlechrome&logoColor=white" />
+  </a>
+  <a href="https://github.com/Sujal16V">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+</p>
+
+💼 **Portfolio:** https://contactsujalsoans.netlify.app/
+
+📫 Feel free to connect with me for collaboration, project discussions, and learning opportunities.
 
 <p align="center">
   <i>"Building today, innovating tomorrow."</i>
