@@ -1,6 +1,6 @@
 # 👋 Hey, I'm Sujal!
 
-### 💻 Aspiring Software Developer | B.E. Student | Tech Enthusiast
+### 💻 Aspiring Software Developer | MCA Student | Tech Enthusiast
 
 I’m a passionate engineering student interested in software development, building practical applications, and exploring emerging technologies.
 
